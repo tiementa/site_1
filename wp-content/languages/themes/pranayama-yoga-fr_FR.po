@@ -1,0 +1,932 @@
+# Translation of Themes - Pranayama Yoga in French (France)
+# This file is distributed under the same license as the Themes - Pranayama Yoga package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-04-19 14:27:24+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fr\n"
+"Project-Id-Version: Themes - Pranayama Yoga\n"
+
+#. Theme Name of the theme
+msgid "Pranayama Yoga"
+msgstr "Pranayama Yoga"
+
+#: inc/getting-started/tabs/help-panel.php:20
+msgid "Support Ticket"
+msgstr "Ticket de support"
+
+#: inc/getting-started/tabs/help-panel.php:15
+msgid "View Documentation"
+msgstr "Voir la documentation"
+
+#: inc/getting-started/tabs/help-panel.php:14
+msgid "Visit the Documentation"
+msgstr "Visitez la documentation"
+
+#: inc/getting-started/tabs/help-panel.php:12
+msgid "View Our Documentation Link"
+msgstr "Voir notre lien de documentation"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:12
+#: inc/getting-started/tabs/link-panel.php:13
+msgid "View Premium Version"
+msgstr "Voir la version Premium"
+
+#: inc/getting-started/tabs/link-panel.php:10
+msgid "Upgrade To Pro"
+msgstr "Mettre à niveau en Pro"
+
+#: inc/getting-started/tabs/plugins-panel.php:36
+msgid "Version %s"
+msgstr "Version %s"
+
+#: inc/getting-started/getting-started.php:118
+#: inc/getting-started/tabs/plugins-panel.php:10
+msgid "Recommended Plugins"
+msgstr "Extensions recommandées"
+
+#: inc/getting-started/tabs/help-panel.php:32
+msgid "View Demo"
+msgstr "Voir la démo"
+
+#: inc/getting-started/tabs/help-panel.php:31
+msgid "Visit the Demo"
+msgstr "Visitez la démo Pro"
+
+#: inc/getting-started/tabs/help-panel.php:24
+msgid "Contact Support"
+msgstr "Contacter l’assistance"
+
+#: inc/getting-started/tabs/help-panel.php:23
+msgid "Visit the Support"
+msgstr "Aller au support"
+
+#: inc/getting-started/getting-started.php:145
+msgid "Free Vs Pro"
+msgstr "Gratuit vs Pro"
+
+#: inc/getting-started/getting-started.php:136
+msgid "FAQ's &amp; Support"
+msgstr "FAQ et support"
+
+#: inc/getting-started/getting-started.php:106
+msgid "You will find everything you need to get started with %1$s below."
+msgstr "Vous trouverez ci-dessous tout ce dont vous avez besoin pour commencer avec %1$s."
+
+#: inc/getting-started/getting-started.php:105
+msgid "Getting started with %1$s v%2$s"
+msgstr "Premiers pas avec %1$s v%2$s"
+
+#: inc/getting-started/getting-started.php:40
+msgid "Activating "
+msgstr "Activation "
+
+#: inc/getting-started/getting-started.php:16
+#: inc/getting-started/getting-started.php:17
+#: inc/getting-started/getting-started.php:127
+msgid "Getting Started"
+msgstr "Commençons"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:13
+msgid "View Pro"
+msgstr "Voir la version Pro"
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:11
+msgid "Free vs Pro"
+msgstr "Gratuit vs Pro"
+
+#: inc/getting-started/tabs/link-panel.php:23
+msgid "Visit the knowledge base"
+msgstr "Visiter la base de connaissances"
+
+#: inc/getting-started/tabs/link-panel.php:19
+#: inc/getting-started/tabs/link-panel.php:23
+msgid "Visit the Knowledge Base"
+msgstr "Visiter la base de connaissances"
+
+#: inc/getting-started/tabs/link-panel.php:21
+msgid "Our documentation comes with a step-by-step guide from installing WordPress to customizing our theme to creating an attractive and engaging website."
+msgstr "Notre documentation est accompagnée d’un guide étape par étape, de l’installation de WordPress à la personnalisation de notre thème jusqu’à la création d’un site web attrayant et engageant."
+
+#: inc/getting-started/tabs/link-panel.php:20
+msgid "Need help with WordPress and our theme as quickly as possible? Visit our well-organized documentation."
+msgstr "Besoin d’aide avec WordPress et notre thème aussi rapidement que possible ? Visitez notre documentation bien organisée."
+
+#: inc/getting-started/tabs/link-panel.php:14
+msgid "Read more about the features here"
+msgstr "En savoir plus sur les fonctionnalités ici"
+
+#: inc/getting-started/tabs/link-panel.php:12
+msgid "Also, the Pro version gets regular updates and has a dedicated support team to solve your queries."
+msgstr " En outre, la version Pro reçoit des mises à jour régulières et dispose d’une équipe de support dédiée pour résoudre vos demandes."
+
+#: inc/getting-started/tabs/link-panel.php:11
+msgid "The Pro version of the theme allows you to change the look and feel of the website with just a few clicks. You can easily change the color, background image and pattern as well as fonts of the website with the Pro version. Also, the Pro theme features more homepage sections than free version to allow you to showcase your organization services in a better way boosting the growth of the organization. Furthermore, the premium theme comes with multiple predefined page templates."
+msgstr "La version Pro du thème vous permet de changer l’apparence et le ressenti du site en quelques clics. Vous pouvez facilement changer la couleur, l’image d’arrière-plan et le motif ainsi que les polices du site web avec la version Pro. En outre, le thème Pro comporte plus de sections de page d’accueil que la version gratuite pour vous permettre de présenter vos services d’organisation d’une meilleure manière stimuler la croissance de l’organisation. En outre, le thème premium est livré avec plusieurs modèles de page prédéfinis."
+
+#: inc/getting-started/tabs/plugins-panel.php:26
+msgid "These Free Plugins might be handy for you."
+msgstr "Ces extensions gratuites peuvent être utiles pour vous."
+
+#: inc/getting-started/tabs/plugins-panel.php:25
+msgid "Free Plugins"
+msgstr "Extensions gratuites"
+
+#: inc/getting-started/tabs/help-panel.php:30
+msgid "Visit the demo to get more idea about our theme design and its features."
+msgstr "Visitez la démo pour avoir plus d’idée sur notre conception de thème et ses caractéristiques."
+
+#: inc/getting-started/tabs/help-panel.php:29
+msgid "View Our Pranayama Yoga Demo"
+msgstr "Voir notre démo de Pranayama Yoga"
+
+#: inc/getting-started/tabs/help-panel.php:22
+msgid "If the Documentation Guide didn't help you, contact us via our %1$sSupport Ticket%2$s. We reply to all the support queries within one business day, except on the weekends."
+msgstr "Si le guide de documentation ne vous a pas aidé, contactez-nous via notre %1$sticket de support%2$s. Nous répondons à toutes les demandes de support en un jour ouvrable, sauf le week-end."
+
+#: inc/getting-started/tabs/help-panel.php:21
+msgid "It's always better to visit our %1$sDocumentation Guide%2$s before you send us a support query."
+msgstr "Il est toujours préférable de visiter notre %1$sguide de documentation%2$s avant de nous envoyer une demande de support."
+
+#: inc/getting-started/tabs/help-panel.php:13
+msgid "Are you new to the WordPress world? Our step by step easy documentation guide will help you create an attractive and engaging website without any prior coding knowledge or experience."
+msgstr "Vous débutez dans le monde WordPress ? Notre guide de documentation facile étape par étape vous aidera à créer un site web attrayant et engageant sans aucune connaissance ou expérience préalable de code."
+
+#: inc/getting-started/tabs/support-panel.php:54
+msgid "Also, when you submit the support ticket, please try to provide maximum details possible so that we can look into your issue in detail and solve it in minimum time. We recommend you to send us a screenshot(s) with issues explained and your website's address (URL)."
+msgstr "En outre, lorsque vous soumettez un ticket de support, veuillez plaît essayer de fournir le maximum de détails possibles afin que nous puissions examiner votre problème en détails et le résoudre en un minimum de temps. Nous vous recommandons de nous envoyer une capture d’écran avec les problèmes expliqués et l’adresse de votre site web (URL)."
+
+#: inc/getting-started/tabs/plugins-panel.php:12
+msgid "Here is a list of recommended plugins you should install to get most out of the Pranayama Yoga. Though every plugin is optional, we recommend you to at least install %1$sRara One Click Demo Import%2$s to create a website similar to the Pranayama Yoga demo and also to ensure every feature of the theme works correctly."
+msgstr "Voici une liste d’extensions recommandées que vous devriez installer pour tirer le meilleur parti de Pranayama Yoga. Bien que chaque extension soit facultative, nous vous recommandons d’installer au moins %1$sRara One Click Demo Import%2$s pour créer un site web similaire à la démo de Pranayama Yoga et aussi pour vous assurer que chaque fonctionnalité du thème fonctionne correctement."
+
+#: inc/custom-functions.php:372
+msgid "Dismiss"
+msgstr "Ignorer"
+
+#: inc/custom-functions.php:371
+msgid "Go to the getting started."
+msgstr "Commencer."
+
+#: inc/custom-functions.php:370
+msgid "%1$s is now installed and ready to use. Click below to see theme documentation, plugins to install and other details to get started."
+msgstr "%1$s est maintenant installé et prêt à l'emploi. Cliquez ci-dessous pour voir la documentation, les extensions à installer et d'autres détails pour commencer."
+
+#: inc/custom-functions.php:369
+msgid "Congratulations!"
+msgstr "Félicitations !"
+
+#: inc/getting-started/tabs/support-panel.php:35
+msgid "How do I change the copyright text?"
+msgstr "Comment puis-je modifier le texte de copyright ?"
+
+#: inc/getting-started/tabs/support-panel.php:30
+msgid "The Pro version is built with lots of flexibility in mind for future upgrades. Therefore, it is slightly different than the free theme but extremely flexible and easy-to-use."
+msgstr "La version Pro est conçue avec beaucoup de flexibilité à l'esprit pour les mises à niveau futures. Par conséquent, elle est légèrement différente du thème gratuit, mais extrêmement flexible et facile à utiliser."
+
+#: inc/getting-started/tabs/support-panel.php:29
+msgid "However, since the Pro version comes with added features and settings, you will need to set up the additional features in the customizer. This process is simple and only takes a few minutes."
+msgstr "Toutefois, puisque la version Pro est livrée avec des fonctionnalités et des réglages supplémentaires, vous devrez configurer les fonctionnalités supplémentaires dans la personnalisation. Ce processus est simple et ne prend que quelques minutes."
+
+#: inc/getting-started/tabs/support-panel.php:28
+msgid "When you upgrade to the Pro theme, your posts, pages, media, categories, and other data will remain intact-- all your data is saved."
+msgstr "Lorsque vous passez au thème Pro, vos articles, pages, médias, catégories et autres données restent intacts - toutes vos données sont enregistrées."
+
+#: inc/getting-started/tabs/support-panel.php:26
+msgid "Upgrading to the Pro version- will I lose my changes?"
+msgstr "Mise à niveau vers la version Pro, vais-je perdre mes modifications ?"
+
+#: inc/getting-started/tabs/support-panel.php:11
+msgid "What is the difference between Free and Pro?"
+msgstr "Quelle est la différence entre Gratuite et Pro ?"
+
+#: inc/getting-started/class-getting-start-plugin-helper.php:109
+msgid "Jetpack Portfolio"
+msgstr "Jetpack Portfolio"
+
+#: inc/getting-started/class-getting-start-plugin-helper.php:104
+msgid "Deactivate"
+msgstr "Désactiver"
+
+#: inc/getting-started/class-getting-start-plugin-helper.php:89
+#: inc/getting-started/class-getting-start-plugin-helper.php:109
+#: inc/tgmpa/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "Activer"
+
+#: inc/getting-started/class-getting-start-plugin-helper.php:85
+msgid "Install and activate"
+msgstr "Installer et activer"
+
+#: inc/getting-started/tabs/support-panel.php:51
+msgid "How can I solve my issues quickly and get faster support?"
+msgstr "Comment puis-je résoudre mes problèmes rapidement et obtenir un support plus rapide ?"
+
+#: inc/getting-started/tabs/support-panel.php:45
+msgid "To solve the issue, deactivate all the plugins first, except the ones recommended by the theme. Then, hard reload your website using %1$s\"Ctrl+Shift+R\"%2$s on Windows and %1$s\"Cmd+Shift+R\"%2$s on Mac. If the issues are fixed, start activating the plugins one by one, and reload and check your site each time. This will help you find out the plugin that is causing the problem."
+msgstr "Pour résoudre le problème, désactivez d'abord toutes les extensions, sauf celles recommandées par le thème. Ensuite, rechargez votre site à l'aide de %1$s« Ctrl-Shift-R »%2$s sur Windows et %1$s« Cmd-Shift-R »%2$sur Mac. Si les problèmes sont résolus, commencez à activer les extensions une par une, actualisez et vérifiez votre site à chaque fois. Cela vous aidera à découvrir l’extension qui est à l'origine du problème."
+
+#: inc/getting-started/tabs/support-panel.php:44
+msgid "If your customizer is not loading properly or you are having issues with the theme, it might be due to the plugin conflict."
+msgstr "Si votre outil de personnalisation ne se charge pas correctement ou si vous rencontrez des problèmes avec le thème, cela peut être dû à un conflit d’extension."
+
+#: inc/getting-started/tabs/support-panel.php:42
+msgid "Why is my theme not working well?"
+msgstr "Pourquoi mon thème ne fonctionne-t-il pas bien ?"
+
+#: inc/getting-started/tabs/support-panel.php:37
+msgid "You can change the copyright text going to %1$sAppearance > Customize > Footer Settings%2$s. However, if you want to hide the author credit text, please %3$supgrade to the Pro version%4$s."
+msgstr "Vous pouvez modifier le texte du copyright via %1$sApparence > Personnaliser > Réglages du pied%2$s. Toutefois, si vous voulez masquer le texte de copyright de l'auteur, veuillez %3$smettre à niveau en version Pro%4$s."
+
+#: inc/getting-started/tabs/support-panel.php:53
+msgid "Please ensure that you have updated to the latest version of the theme before you submit a support ticket for any issue. We might have already fixed the bug in the previous theme update."
+msgstr "Veuillez vous assurer que vous avez mis à jour à la dernière version du thème avant de soumettre un ticket de support pour n’importe quel problème. Nous avons peut-être déjà corrigé le bogue dans la mise à jour précédente du thème."
+
+#: inc/getting-started/tabs/support-panel.php:46
+msgid "If this didn't help, please contact us via our %1$sSupport Ticket%2$s."
+msgstr "Si cela n’a pas aidé, veuillez nous contacter via notre %1$sticket de support%2$s."
+
+#: inc/getting-started/tabs/support-panel.php:21
+msgid "Along with the additional features and regular updates, you get dedicated and quick support with the premium theme. If you run into any issue while creating a website with the premium theme, you will get a quicker response compared to the free support."
+msgstr "Avec les fonctionnalités supplémentaires et les mises à jour régulières, vous obtenez un support dédié et rapide avec le thème premium. Si vous rencontrez n’importe quel problème lors de la création d’un site web avec le thème premium, vous obtiendrez une réponse plus rapide par rapport au support gratuit."
+
+#: inc/getting-started/tabs/support-panel.php:19
+msgid "What are the perks of upgrading to the Premium version?"
+msgstr "Quels sont les avantages de la mise à niveau vers la version Premium ?"
+
+#: inc/getting-started/tabs/support-panel.php:14
+msgid "Overall, you will have more control over the customization and editing of your website with the Pro version."
+msgstr " Dans l’ensemble, vous aurez plus de contrôle sur la personnalisation et l’édition de votre site web avec la version Pro."
+
+#: inc/getting-started/tabs/support-panel.php:13
+msgid "Both the Free and Pro version of the themes are coded well and are developed with best coding practices. However, the Pro version of the theme comes with extended features and dedicated support team to help you solve your queries. The Pro theme comes with multiple homepage sections which you can sort and hide as per your requirements. Also, the Pro theme comes with several predefined page templates."
+msgstr "La version Free et Pro des thèmes sont bien codées et développées avec les meilleures pratiques de codage. Cependant, la version Pro du thème est livré avec des fonctionnalités étendues et une équipe de support dédiée pour vous aider à résoudre vos requêtes. Le thème Pro est livré avec plusieurs sections de page d’accueil que vous pouvez trier et masquer selon vos besoins. En outre, le thème Pro est livré avec plusieurs modèles de page prédéfinis."
+
+#: inc/template-functions.php:50
+msgid "Skip to content (Press Enter)"
+msgstr "Aller au contenu (Pressez Entrée)"
+
+#: inc/template-functions.php:609
+msgid "Pranayama Yoga | Developed By"
+msgstr "Pranayama Yoga | Développé par"
+
+#: inc/info.php:154
+msgid "VIEW PRO THEME"
+msgstr "Voir le thème pro"
+
+#: inc/info.php:152
+msgid "Pro Available"
+msgstr "Pro disponible"
+
+#: inc/customizer/footer.php:14
+msgid "Footer Settings"
+msgstr "Réglages du pied"
+
+#: inc/customizer/customizer.php:12
+msgid "Static Front Page"
+msgstr "Page d&rsquo;accueil statique"
+
+#: inc/customizer/footer.php:33
+msgid "To create your own footer copyright. You can change it from here"
+msgstr "Pour créer votre propre copyright du pied. Vous pouvez le changer à partir d’ici"
+
+#: inc/customizer/footer.php:31
+msgid "Copyright Info"
+msgstr "Information de copyright"
+
+#: inc/customizer/social.php:230 inc/extras.php:175
+msgid "Xing"
+msgstr "Xing"
+
+#: inc/customizer/social.php:212 inc/extras.php:171
+msgid "VK"
+msgstr "VK"
+
+#: inc/customizer/social.php:195 inc/extras.php:167
+msgid "OK"
+msgstr "Ok"
+
+#: inc/info.php:25
+msgid "Support ticket"
+msgstr "Ticket de support"
+
+#: inc/info.php:24
+msgid "Theme info"
+msgstr "Theme info"
+
+#: inc/info.php:23
+msgid "View documentation"
+msgstr "Voir la documentation"
+
+#: inc/info.php:22 inc/info.php:23 inc/info.php:24 inc/info.php:25
+#: inc/info.php:26 inc/info.php:27
+msgid "here"
+msgstr "ici"
+
+#: inc/info.php:22
+msgid "View demo"
+msgstr "Voir la démo"
+
+#: inc/info.php:21
+msgid "Need help?"
+msgstr "Besoin d’aide ?"
+
+#: inc/info.php:11
+msgid "Information Links"
+msgstr "Informations et liens"
+
+#: inc/info.php:31
+msgid "About Pranayama Yoga"
+msgstr "À propos de Pranayama Yoga"
+
+#: inc/info.php:27
+msgid "More WordPress Themes"
+msgstr "Autres Thèmes WordPress"
+
+#: inc/info.php:26
+msgid "Rate this theme"
+msgstr "Noter ce thème"
+
+#: inc/custom-functions.php:313
+msgid "Name*"
+msgstr "Nom*"
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés."
+
+#: comments.php:53
+msgid "Newer Comments"
+msgstr "Commentaires plus récents"
+
+#: comments.php:52
+msgid "Older Comments"
+msgstr "Commentaires plus anciens"
+
+#: comments.php:49
+msgid "Comment navigation"
+msgstr "Navigation dans les commentaires"
+
+#: comments.php:31
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "%1$s commentaire"
+msgstr[1] "%1$s commentaire"
+
+#: 404.php:22
+msgid "Home page"
+msgstr "Page d'accueil"
+
+#: 404.php:18
+msgid "Page Not Found."
+msgstr "Page non trouvée."
+
+#: 404.php:17
+msgid "404"
+msgstr "404"
+
+#: inc/customizer/customizer.php:24
+msgid "Choose Post"
+msgstr "Choisissez les Articles"
+
+#: inc/customizer/custom.php:33
+msgid "Custom Css"
+msgstr "Css Personnalisé"
+
+#: inc/customizer/breadcrumb.php:87
+msgid "Breadcrumb Separator"
+msgstr "Caractère de séparation dans le fil d'ariane"
+
+#: inc/customizer/breadcrumb.php:79 inc/template-functions.php:213
+msgid ">"
+msgstr ">"
+
+#: inc/customizer/breadcrumb.php:69
+msgid "Breadcrumb Home Text"
+msgstr "Texte du fil d’Ariane d’accueil"
+
+#: inc/customizer/breadcrumb.php:61 inc/template-functions.php:214
+msgid "Home"
+msgstr "Accueil"
+
+#: inc/customizer/breadcrumb.php:33
+msgid "Enable Breadcrumb"
+msgstr "Activer le fil d'Ariane"
+
+#: inc/customizer/breadcrumb.php:14
+msgid "Breadcrumb Settings"
+msgstr "Réglages de fil d'Ariane"
+
+#: inc/custom-functions.php:334
+msgid "Comment"
+msgstr "Commentaire"
+
+#: inc/custom-functions.php:321
+msgid "Website"
+msgstr "Site web"
+
+#: inc/custom-functions.php:314
+msgid "Email*"
+msgstr "E-mail*"
+
+#: inc/customizer/home/banners.php:16
+msgid "Banner Section"
+msgstr "Section de bannière"
+
+#: inc/customizer/home/about.php:70
+msgid "Read More Text"
+msgstr "Texte pour Lire la suite"
+
+#: inc/customizer/home/about.php:51
+msgid "Select Post"
+msgstr "Sélectionner un article"
+
+#: inc/customizer/home/about.php:16
+msgid "About Section"
+msgstr "Section à propos"
+
+#: inc/customizer/header.php:68
+msgid "Phone Number"
+msgstr "Numéro de téléphone"
+
+#: inc/customizer/header.php:32
+msgid "Address"
+msgstr "Adresse"
+
+#: inc/customizer/customizer.php:52
+msgid "Choose Category"
+msgstr "Choisissez une catégorie"
+
+#: inc/customizer/home/blog.php:68 inc/customizer/home/promotional.php:67
+#: inc/customizer/home/subscription.php:67
+msgid "Section Description"
+msgstr "Description de la section"
+
+#: inc/customizer/home/blog.php:50 inc/customizer/home/promotional.php:49
+#: inc/customizer/home/subscription.php:49 inc/customizer/home/trainer.php:51
+#: inc/customizer/home/yogaclasses.php:52
+msgid "Section Title"
+msgstr "Titre de la section"
+
+#: inc/customizer/home/blog.php:32
+msgid "Enable Blog Section"
+msgstr "Activer la section de blog"
+
+#: inc/customizer/home/blog.php:14
+msgid "Blog Section"
+msgstr "Section de blog"
+
+#: inc/customizer/home/trainer.php:15
+msgid "Team Section"
+msgstr "Section d’équipe"
+
+#: inc/customizer/home/testimonials.php:16
+msgid "Testimonial Section"
+msgstr "Section de témoignages"
+
+#: inc/customizer/home/reason.php:51
+msgid "Select Page"
+msgstr "Sélectionnez la page"
+
+#. translators: %s: post title
+#: inc/extras.php:18
+msgid "1 Comment"
+msgstr "Un commentaire"
+
+#. translators: %s: post title
+#: inc/extras.php:18
+msgid "Leave a comment"
+msgstr "Laisser un commentaire"
+
+#: inc/customizer/social.php:177
+msgid "YouTube"
+msgstr "YouTube"
+
+#: inc/customizer/social.php:159 inc/extras.php:159
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/customizer/social.php:141 inc/extras.php:155
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/customizer/social.php:123 inc/extras.php:151
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: inc/customizer/social.php:105 inc/extras.php:147
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: inc/customizer/social.php:87 inc/extras.php:143
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/customizer/social.php:69 inc/extras.php:139
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/template-functions.php:394
+msgid "Search Results for: %s"
+msgstr "Résultats de recherche pour : %s"
+
+#: inc/metabox.php:40
+msgid "Choose Sidebar Template"
+msgstr "Choisissez le modèle de barre"
+
+#: inc/metabox.php:29
+msgid "No sidebar"
+msgstr "Sans Sidebar"
+
+#: inc/metabox.php:13
+msgid "Sidebar Layout"
+msgstr "Mise en page de barre"
+
+#: inc/template-functions.php:366
+msgid "404 Error - Page not Found"
+msgstr "Erreur 404 - Page non trouvée"
+
+#: inc/template-functions.php:343
+msgid "\""
+msgstr "\""
+
+#: inc/template-functions.php:343
+msgid "Search Results for \""
+msgstr "Résultats de recherche pour \""
+
+#: inc/extras.php:163
+msgid "Youtube"
+msgstr "YouTube"
+
+#: inc/extras.php:113
+msgid "Page"
+msgstr "Page"
+
+#: inc/extras.php:112
+msgid "Next"
+msgstr "Suivant"
+
+#. translators: %s: Name of current post
+#: inc/extras.php:50
+msgid "Edit %s"
+msgstr "Modifier %s"
+
+#. translators: used between list items, there is a space after the comma
+#. translators: used between list items, there is a space after the comma
+#: inc/extras.php:35 inc/extras.php:41
+msgid ", "
+msgstr ", "
+
+#. translators: %s: post title
+#: inc/extras.php:18
+msgid "% Comments"
+msgstr "% commentaires"
+
+#: inc/widgets/widget-social-links.php:26
+msgid "A Social Links Widget."
+msgstr "Widget pour les liens de réseau social."
+
+#: inc/widgets/widget-popular-post.php:123
+#: inc/widgets/widget-recent-post.php:123
+msgid "Show Post Thumbnail"
+msgstr "Afficher les Miniatures des Articles"
+
+#: inc/widgets/widget-popular-post.php:117
+#: inc/widgets/widget-recent-post.php:117
+msgid "Number of Posts"
+msgstr "Nombre d’articles"
+
+#: inc/widgets/widget-popular-post.php:112
+#: inc/widgets/widget-recent-post.php:112
+#: inc/widgets/widget-social-links.php:64
+msgid "Title"
+msgstr "Titre"
+
+#: inc/template-functions.php:612
+msgid "https://wordpress.org/"
+msgstr "https://fr.wordpress.org/"
+
+#: inc/template-functions.php:612
+msgid "Powered by %s"
+msgstr "Propulsé par %s"
+
+#: inc/template-functions.php:604
+msgid "&copy; Copyright "
+msgstr "&copy; Copyright "
+
+#: inc/template-functions.php:493
+msgid "About %s"
+msgstr "A propos %s"
+
+#: template-parts/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Prêt·e à publier votre premier article ? <a href=\"%1$s\">Lancez-vous ici</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Aucun résultat"
+
+#: sections/promotional.php:9
+msgid "Book Now"
+msgstr "Réserver"
+
+#: inc/widgets/widgets.php:34
+msgid "Add footer four widgets."
+msgstr "Ajoutez des widgets de pied 4 ici."
+
+#: inc/widgets/widgets.php:32
+msgid "Footer Four"
+msgstr "Pied 4"
+
+#: inc/widgets/widgets.php:27
+msgid "Footer Three"
+msgstr "Pied 3"
+
+#: inc/widgets/widgets.php:22
+msgid "Footer Two"
+msgstr "Pied 2"
+
+#: inc/widgets/widgets.php:17
+msgid "Footer One"
+msgstr "Pied 1"
+
+#: inc/widgets/widgets.php:14
+msgid "Add widgets here."
+msgstr "Ajouter des widgets ici."
+
+#: inc/widgets/widgets.php:12
+msgid "Right Sidebar"
+msgstr "Barre de droite"
+
+#. Template Name of the theme
+msgid "Home Page"
+msgstr "Page d'accueil"
+
+#. translators: %s: Name of current post.
+#. translators: %s: Name of current post.
+#: template-parts/content-single.php:28 template-parts/content.php:31
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Poursuivre la lecture de %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content-page.php:28 template-parts/content-single.php:33
+#: template-parts/content.php:37
+msgid "Pages:"
+msgstr "Pages :"
+
+#: template-parts/content-none.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Il semble que rien ne soit trouvé pour votre recherche. Une recherche vous aiderait peut-être."
+
+#: template-parts/content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Désolé, mais rien ne correspond à votre recherche. Veuillez réessayer avec une recherche différente."
+
+#: inc/widgets/widgets.php:29
+msgid "Add footer three widgets."
+msgstr "Ajoutez des widgets de pied 3 ici."
+
+#: inc/widgets/widgets.php:24
+msgid "Add footer two widgets."
+msgstr "Ajoutez des widgets de pied 2 ici."
+
+#: inc/widgets/widgets.php:19
+msgid "Add footer one widgets."
+msgstr "Ajoutez des widgets de pied 1 ici."
+
+#: inc/widgets/widget-social-links.php:69
+msgid "You can change the social links from the customizer in Social Settings options."
+msgstr "Vous pouvez changer les liens pour le réseau social depuis l’outil de personnalisation dans les options des réglages sociaux."
+
+#: inc/widgets/widget-social-links.php:25
+msgid "RARA: Social Links"
+msgstr "RARA : Liens sociaux"
+
+#: inc/widgets/widget-recent-post.php:26
+msgid "A Recent Post Widget"
+msgstr "Un widget d'article récent"
+
+#: inc/widgets/widget-recent-post.php:25
+msgid "RARA: Recent Post"
+msgstr "RARA : Article récent"
+
+#: inc/widgets/widget-popular-post.php:128
+#: inc/widgets/widget-recent-post.php:128
+msgid "Show Post Date"
+msgstr "Afficher la date de l'article"
+
+#: inc/widgets/widget-popular-post.php:25
+msgid "A Popular Post Widget"
+msgstr "Un widget d'article populaire"
+
+#: inc/widgets/widget-popular-post.php:24
+msgid "RARA: Popular Post"
+msgstr "RARA : Article populaire"
+
+#: inc/template-functions.php:402
+msgid "404 - Page not found"
+msgstr "404 - Page Introuvable"
+
+#: inc/metabox.php:24
+msgid "Right sidebar (default)"
+msgstr "Barre de droite (défaut)"
+
+#: inc/extras.php:111
+msgid "Prev"
+msgstr "Préc"
+
+#: inc/customizer/social.php:51
+msgid "Enable Social Links in Footer"
+msgstr "Activer les liens sociaux dans le pied"
+
+#: inc/customizer/social.php:33
+msgid "Enable Social Links in Header"
+msgstr "Cochez pour activer les liens sociaux dans l'en-tête"
+
+#: inc/customizer/social.php:15
+msgid "Leave blank if you do not want to show the social link."
+msgstr "Laissez vide si vous ne voulez pas afficher les liens sociaux."
+
+#: inc/customizer/social.php:14
+msgid "Social Settings"
+msgstr "Réglages sociaux"
+
+#: inc/customizer/home.php:17
+msgid "Customize Home Page Settings"
+msgstr "Réglages de personnalisation de page d’accueil"
+
+#: inc/customizer/home.php:16
+msgid "Home Page Settings"
+msgstr "Réglages de page d’accueil"
+
+#: inc/customizer/home/yogaclasses.php:34
+msgid "Enable Yoga Classes Section"
+msgstr "Activer la section de cours de yoga"
+
+#: inc/customizer/home/yogaclasses.php:16
+msgid "Yoga Classes Section"
+msgstr "Section de cours de yoga"
+
+#: inc/customizer/home/trainer.php:33
+msgid "Enable Team Section"
+msgstr "Activer la section d’équipe"
+
+#: inc/customizer/home/testimonials.php:52
+msgid "Choose Testimonials Category"
+msgstr "Choissisez la catégorie de témoignages"
+
+#: inc/customizer/home/testimonials.php:34
+msgid "Enable Testimonial Section"
+msgstr "Activer la section de témoignages"
+
+#: inc/customizer/home/subscription.php:32
+msgid "Enable Promotional Section Two"
+msgstr "Activer la section promotionnelle 2"
+
+#: inc/customizer/home/subscription.php:14
+msgid "Promotional Section Two"
+msgstr "Section promotionnelle 2"
+
+#: inc/customizer/home/reason.php:165 inc/customizer/home/yogaclasses.php:163
+msgid "Select Post Six"
+msgstr "Choisissez l'article six"
+
+#: inc/customizer/home/reason.php:146 inc/customizer/home/yogaclasses.php:144
+msgid "Select Post Five"
+msgstr "Choisissez l'article 5"
+
+#: inc/customizer/home/reason.php:33
+msgid "Enable Reasons Section"
+msgstr "Activer la section des raisons"
+
+#: inc/customizer/home/reason.php:15
+msgid "Reasons Section"
+msgstr "Section des raisons"
+
+#: inc/customizer/home/promotional.php:100
+#: inc/customizer/home/subscription.php:100
+msgid "Link Here"
+msgstr "Lien ici"
+
+#: inc/customizer/home/promotional.php:83
+#: inc/customizer/home/subscription.php:83
+msgid "Call To Action Button Text"
+msgstr "Texte du bouton d'appel à action"
+
+#: inc/customizer/home/promotional.php:32
+msgid "Enable Promotional Section"
+msgstr "Activer la section promotionnelle"
+
+#: inc/customizer/home/promotional.php:14
+msgid "Promotional Section"
+msgstr "Section promotionnelle"
+
+#: inc/customizer/home/information.php:107 inc/customizer/home/reason.php:127
+#: inc/customizer/home/yogaclasses.php:125
+msgid "Select Post Four"
+msgstr "Choisissez l'article 4"
+
+#: inc/customizer/home/information.php:88 inc/customizer/home/reason.php:108
+#: inc/customizer/home/trainer.php:107 inc/customizer/home/yogaclasses.php:106
+msgid "Select Post Three"
+msgstr "Choisissez l'article 3"
+
+#: inc/customizer/home/information.php:69 inc/customizer/home/reason.php:89
+#: inc/customizer/home/trainer.php:88 inc/customizer/home/yogaclasses.php:87
+msgid "Select Post Two"
+msgstr "Choisissez l'article 2"
+
+#: inc/customizer/home/information.php:51 inc/customizer/home/reason.php:70
+#: inc/customizer/home/trainer.php:69 inc/customizer/home/yogaclasses.php:69
+msgid "Select Post One"
+msgstr "Choisissez l'article 1"
+
+#: inc/customizer/home/information.php:34
+msgid "Enable Information Section"
+msgstr "Activer la section d’information"
+
+#: inc/customizer/home/information.php:16
+msgid "Information Section"
+msgstr "Section d’information"
+
+#: inc/customizer/home/banners.php:71
+msgid "Readmore Text"
+msgstr "Texte pour lire la suite"
+
+#: inc/customizer/home/banners.php:52
+msgid "Select Banner Post"
+msgstr "Choisissez l'article de bannière"
+
+#: inc/customizer/home/banners.php:34
+msgid "Enable Banner Section"
+msgstr "Activer la section de bannière"
+
+#: inc/customizer/home/about.php:62 inc/customizer/home/banners.php:63
+#: sections/about.php:8 sections/slider.php:8
+msgid "Learn More"
+msgstr "En savoir plus"
+
+#: inc/customizer/home/about.php:34
+msgid "Enable About Section"
+msgstr "Activer la section à propos"
+
+#: inc/customizer/header.php:50
+msgid "Text for Phone Number"
+msgstr "Texte du numéro de téléphone"
+
+#: inc/customizer/header.php:14
+msgid "Header Info"
+msgstr "Info d’en-tête"
+
+#: inc/customizer/default.php:18
+msgid "Default section provided by WordPress customizer"
+msgstr "Section par défaut fournie par l'outil de personnalisation de WordPress"
+
+#: inc/customizer/default.php:17
+msgid "Default Settings"
+msgstr "Réglages par défaut"
+
+#: inc/customizer/customizer.php:36
+msgid "Choose Page"
+msgstr "Choisir une page"
+
+#: inc/customizer/custom.php:35
+msgid "Put your custom CSS"
+msgstr "Insérez votre CSS personnalisé"
+
+#: inc/customizer/custom.php:15
+msgid "Custom CSS Settings"
+msgstr "Réglages de CSS personnalisé"
+
+#: inc/customizer/breadcrumb.php:51
+msgid "Show current"
+msgstr "Afficher l’actuel"
+
+#: inc/custom-functions.php:55
+msgid "Primary"
+msgstr "Principal"
+
+#: 404.php:21
+msgid "Can not find what you need? Take a moment and do a search below or start form our"
+msgstr "Vous ne trouvez pas ce dont vous avez besoin ? Prenez un moment et faites une recherche ci-dessous ou depuis notre page d'accueil."
+
+#: sections/subscription.php:9 template-parts/content.php:44
+msgid "Read More"
+msgstr "Lire la suite"
+
+#. Author URI of the theme
+msgid "https://rarathemes.com/"
+msgstr "https://rarathemes.com/"
+
+#. Author of the theme
+#: inc/template-functions.php:610
+msgid "Rara Theme"
+msgstr "Rara Theme"
+
+#. Theme URI of the theme
+msgid "https://rarathemes.com/wordpress-themes/pranayama-yoga/"
+msgstr "https://rarathemes.com/wordpress-themes/pranayama-yoga/"

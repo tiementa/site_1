@@ -1,0 +1,216 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Avrilly Theme\n"
+"POT-Creation-Date: 2019-07-20 13:30+0300\n"
+"PO-Revision-Date: 2015-04-04 15:03+0200\n"
+"Last-Translator: Aigars Silkalns <a.silkalns@gmail.com>\n"
+"Language-Team: MOOZ Themes <info@moozthemes.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__;esc_attr__;esc_html__;esc_html_e;esc_attr_x:1,2c;_nx:4c,1,2;_n:1,2\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../404.php:12
+msgid "Page not found"
+msgstr ""
+
+#: ../comments.php:26
+#, php-format
+msgid "Only %1$s registered %2$s users can comment."
+msgstr ""
+
+#: ../comments.php:32 ../comments.php:50
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:33 ../comments.php:51
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:34 ../comments.php:52
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:57
+msgid "Comments are closed."
+msgstr ""
+
+#: ../content-page.php:28 ../content-single.php:41
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: ../content-page.php:41 ../content-single.php:56
+msgid "Pages:"
+msgstr ""
+
+#: ../content-page.php:45 ../content-single.php:60
+msgid "Page"
+msgstr ""
+
+#: ../content-single.php:35
+msgid "0 Comments"
+msgstr ""
+
+#: ../content-single.php:35 ../inc/extras.php:45
+msgid "1 Comment"
+msgstr ""
+
+#: ../content-single.php:35
+msgid "% Comments"
+msgstr ""
+
+#: ../functions.php:9
+msgid "Left Sidebar"
+msgstr ""
+
+#: ../functions.php:10
+msgid "Right Sidebar"
+msgstr ""
+
+#: ../functions.php:11
+msgid "No Sidebar"
+msgstr ""
+
+#: ../functions.php:14
+msgid "Landscape"
+msgstr ""
+
+#: ../functions.php:15
+msgid "Portrait"
+msgstr ""
+
+#: ../functions.php:51
+msgid "Footer Menu"
+msgstr ""
+
+#: ../functions.php:52
+msgid "Primary Menu"
+msgstr ""
+
+#: ../functions.php:136
+msgid "All"
+msgstr ""
+
+#: ../functions.php:312
+msgid "Primary Sidebar"
+msgstr ""
+
+#: ../functions.php:314
+msgid "Main sidebar that appears on the left."
+msgstr ""
+
+#: ../functions.php:336
+msgid ". All rights reserved."
+msgstr ""
+
+#: ../functions.php:342
+#, php-format
+msgid "Theme by %1$s Powered by %2$s"
+msgstr ""
+
+#: ../header.php:24
+msgid "Toggle navigation"
+msgstr ""
+
+#: ../inc/customizer.php:33
+msgid "Accent color"
+msgstr ""
+
+#: ../inc/customizer.php:45
+msgid "Layout options"
+msgstr ""
+
+#: ../inc/customizer.php:46
+msgid "Choose website layout"
+msgstr ""
+
+#: ../inc/customizer.php:58
+msgid "Website Layout Options"
+msgstr ""
+
+#: ../inc/customizer.php:61
+msgid "Choose between different layout options to be used as default"
+msgstr ""
+
+#: ../inc/customizer.php:77
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: ../inc/customizer.php:90
+msgid "Slider Settings"
+msgstr ""
+
+#: ../inc/customizer.php:92
+msgid "Change slider settings here."
+msgstr ""
+
+#: ../inc/customizer.php:106
+msgid "Choose a category."
+msgstr ""
+
+#: ../inc/customizer.php:120
+msgid "Show Slider?"
+msgstr ""
+
+#: ../inc/extras.php:41
+msgid "No Comments"
+msgstr ""
+
+#: ../inc/extras.php:43
+msgid " Comments"
+msgstr ""
+
+#: ../inc/extras.php:49
+msgid "Comments are off for this post."
+msgstr ""
+
+#: ../inc/wp_bootstrap_navwalker.php:366
+msgid "Add a menu"
+msgstr ""
+
+#: ../index.php:33
+msgid "Previous page"
+msgstr ""
+
+#: ../index.php:34
+msgid "Next page"
+msgstr ""
+
+#: ../searchform.php:13
+msgid "Search for:"
+msgstr ""
+
+#: ../searchform.php:14
+msgctxt "placeholder"
+msgid "Search & Help"
+msgstr ""
+
+#: ../searchform.php:14
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: ../searchform.php:16
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: ../sidebar.php:36
+msgid "Archives"
+msgstr ""
+
+#: ../single.php:17
+msgid "<span class=\"meta-nav\">Next Post</span> %title"
+msgstr ""
+
+#: ../single.php:17
+msgid "<span class=\"meta-nav\">Previous Post</span> %title"
+msgstr ""
